@@ -1,13 +1,3 @@
-/* Name: (Ravanelly Jean Baptiste)
- * Date: (3/19/24)
- * Section: (0020)
- * Assignment: (Assignment #3)
- * Due date: (3/19/24)
- * About this project: (A program that will output either a Z or N in ASCII art in a size
- * entered by the user.)
- * Assumptions: (Assume that Z and N are the only allowed letters. Assume only sizes that are odd,
- * greater than or equal 5, and less than or equal to 15 are accepted.)
- * All work below was performed by Ravanelly Jean Baptiste */
 
 #include <iostream>
 #include <iomanip>
